@@ -1,5 +1,6 @@
 # Навигатор по репозиторию
 Данный репозиторий содержит курсовые работы, решения задач, небольшие Pet-проекты
+- Папка lab_works содержит Python код способный развернуть Telegram бота для сбора заявок (в моем случае заявок на выполнение лабораторных работ)
 - Файл HR_Employees.docx
   - Содержит задачи и решения этих задач, созданных для работы с тестовой схемой Oracle HR.Employees
   - https://docs.oracle.com/en/database/oracle/oracle-database/23/comsc/HR-sample-schema-table-descriptions.html
