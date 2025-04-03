@@ -32,3 +32,4 @@
 https://github.com/ds-ru/dobro_rf_parser
 
 https://github.com/ds-ru/Detskiy_Mir_Parser
+https://github.com/ds-ru/Parser_Globus
